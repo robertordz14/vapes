@@ -1,0 +1,52 @@
+[
+    {
+      "imagen": "../../images/coolmintneo.webp",
+      "titulo": "WONDER Neo Cool Mint",
+      "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+      "precio": "$450",
+      "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Cool+Mint+"
+    },
+    {
+        "imagen": "../../images/kiwipassion.webp",
+        "titulo": "WONDER Neo Kiwi Passion/Fruit Guava",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Kiwi+Passion+Fruit+Guava+"
+    },
+      {
+        "imagen": "../../images/kiwineo.webp",
+        "titulo": "WONDER Neo Kiwi Strawberry",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Kiwi+Strawberry+"
+    },
+      {
+        "imagen": "../../images/sakuraneo.webp",
+        "titulo": "WONDER Neo Sakura Grape Ice",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Sakura+Grape+Ice+"
+    },
+      {
+        "imagen": "../../images/banananeo.webp",
+        "titulo": "WONDER Neo Strawberry Banana",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Strawberry+Banana+"
+    },
+      {
+        "imagen": "../../images/razneo.webp",
+        "titulo": "WONDER Neo Blue Raz Ice",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Blue+Raz+Ice+"
+    },
+      {
+        "imagen": "../../images/watermelonneo.webp",
+        "titulo": "WONDER Neo Watermelon Ice",
+        "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
+        "precio": "$450",
+        "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Watermelon+Ice+"
+    }
+  ]
+  

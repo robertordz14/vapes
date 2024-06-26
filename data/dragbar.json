@@ -1,0 +1,58 @@
+[
+  {
+    "imagen": "../../images/bbluerazz.webp",
+    "titulo": "Dragbar B6500  Blue Razz Ice",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Blue+Razz+Ice+"
+  },
+  {
+    "imagen": "../../images/coolmint.webp",
+    "titulo": "Dragbar B6500  Cool Mint",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Cool+Mint+"
+  },
+  {
+    "imagen": "../../images/watermelon.webp",
+    "titulo": "Dragbar B6500  Honeydew Watermelon",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Honeydew+Watermelon+"
+  },
+  {
+    "imagen": "../../images/lemonpie.webp",
+    "titulo": "Dragbar B6500  Lemon Pie",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Lemon+Pie+"
+  },
+  {
+    "imagen": "../../images/peachice.webp",
+    "titulo": "Dragbar B6500  Peach Ice",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dagbar+Peach+Ice+"
+  },
+  {
+    "imagen": "../../images/kiwiice.webp",
+    "titulo": "Dragbar B6500  Strawberry Kiwi Ice",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Strawberry+Kiwi+Ice+"
+  },
+  {
+    "imagen": "../../images/watermelonice.webp",
+    "titulo": "Dragbar B6500  Strawberry Watermelon Ice",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Strawberry+Watermelon+Ice+"
+  },
+  {
+    "imagen": "../../images/waterice.webp",
+    "titulo": "Dragbar B6500  Watermelon Ice",
+    "descripcion": "5%  -  6,500puffs  -  Recargable",
+    "precio": "$350",
+    "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dragbar+Watermelon+Ice+"
+  }
+]
