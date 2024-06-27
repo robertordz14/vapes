@@ -2,84 +2,86 @@
   {
     "imagen": "../../images/cottoncandy.webp",
     "titulo": "WONDER G10000 Cotton Candy",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Cotton+Candy+"
   },
   {
     "imagen": "../../images/coolmintw.webp",
     "titulo": "WONDER G10000 Cool Mint",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Cool+Mint+"
   },
   {
     "imagen": "../../images/kiwiStrawberry.webp",
     "titulo": "WONDER G10000 Kiwi Strawberry",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Kiwi+Strawberry+"
   },
   {
     "imagen": "../../images/fruitguava.webp",
     "titulo": "WONDER G10000 Kiwi Passion/Fruit Guava",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Kiwi+Passion+Fruit+Guava+"
   },
   {
     "imagen": "../../images/mangoorange.webp",
     "titulo": "WONDER G10000 Mango Orange/Watermelon",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Mango+Orange+Watermelon+"
   },
   {
     "imagen": "../../images/coconut.webp",
     "titulo": "WONDER G10000 Strawberry Coconut",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Strawberry+Coconut+"
   },
   {
     "imagen": "../../images/lushice.webp",
     "titulo": "WONDER G10000 Lush Ice",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Lush+Ice+"
   },
   {
     "imagen": "../../images/berrylemonade.webp",
-    "titulo": "WONDER G10000 Berry Lemonade",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "_titulo": "WONDER G10000 Berry Lemonade",
+    "titulo": "AGOTADO",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Berry+Lemonade+"
   },
   {
     "imagen": "../../images/blackice.webp",
     "titulo": "WONDER G10000 Black Ice",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Black+Ice+"
   },
   {
     "imagen": "../../images/blueberryice.webp",
-    "titulo": "WONDER G10000 Blueberry Ice",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "_titulo": "WONDER G10000 Blueberry Ice",
+    "titulo": "AGOTADO",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Blueberry+Ice+"
   },
   {
     "imagen": "../../images/mangopeachice.webp",
     "titulo": "WONDER G10000 Mango Peach Ice",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Mango+Peach+Ice+"
   },
   {
     "imagen": "../../images/tripleberry.webp",
     "titulo": "WONDER G10000 Triple Berry",
-    "descripcion": "5%  -  10,000puffs  -  Recargable",
+    "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Triple+Berry+"
   }

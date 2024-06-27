@@ -5,7 +5,9 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
-
+.agotado {
+  color: red !important;
+}
 .layout_padding {
   padding: 90px 0;
 }

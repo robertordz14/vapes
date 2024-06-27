@@ -29,9 +29,11 @@ function crearTarjetas(datos, className) {
 
       const titulo = document.createElement('h5');
       titulo.textContent = dato.titulo;
-
+      if (dato.titulo === "AGOTADO") {
+        titulo.classList.add('agotado');
+    }
+    
       const descripcion = document.createElement('p');
-      descripcion.textContent = dato.descripcion;
 
       const opciones = document.createElement('div');
       opciones.classList.add('options');
