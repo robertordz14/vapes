@@ -22,7 +22,8 @@
     },
       {
         "imagen": "../../images/sakuraneo.webp",
-        "titulo": "WONDER Neo Sakura Grape Ice",
+        "_titulo": "WONDER Neo Sakura Grape Ice",
+        "titulo": "AGOTADO",
         "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
         "precio": "$450",
         "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Sakura+Grape+Ice+"
@@ -36,7 +37,8 @@
     },
       {
         "imagen": "../../images/razneo.webp",
-        "titulo": "WONDER Neo Blue Raz Ice",
+        "_titulo": "WONDER Neo Blue Raz Ice",
+        "titulo": "AGOTADO",
         "descripcion": "° 5%  -  9,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Pantalla digital",
         "precio": "$450",
         "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+Neo+Blue+Raz+Ice+"
