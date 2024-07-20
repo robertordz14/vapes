@@ -9,7 +9,8 @@
   },
   {
     "imagen": "../../images/coolmintw.webp",
-    "titulo": "WONDER G10000 Cool Mint",
+    "_titulo": "WONDER G10000 Cool Mint",
+    "titulo": "AGOTADO",
     "descripcion": "° 5%  -  10,000puffs  -  Recargable<br>° Perilla controladora de flujo de aire <br>° Luz led indicador de bateria",
     "precio": "$400",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+WONDER+G10000+Cool+Mint+"

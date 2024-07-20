@@ -31,7 +31,8 @@
   },
   {
     "imagen": "../../images/peachice.webp",
-    "titulo": "Dragbar B6500  Peach Ice",
+    "_titulo": "Dragbar B6500  Peach Ice",
+    "titulo": "AGOTADO",
     "descripcion": "5%  -  6,500puffs  -  Recargable",
     "precio": "$350",
     "enlace": "https://api.whatsapp.com/send?phone=+524492063304&text=Hola+quería+saber+si+está+disponible+Dagbar+Peach+Ice+"
